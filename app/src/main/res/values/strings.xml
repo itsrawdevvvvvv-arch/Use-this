@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gaffer</string>
+    <string name="accessibility_label">Gaffer screen agent</string>
+    <string name="notification_listener_label">Gaffer notification relay</string>
+    <string name="accessibility_description">Lets Gaffer read the screen and perform taps, swipes and typing on your behalf when you ask it to. Turn this off any time in Settings.</string>
+</resources>

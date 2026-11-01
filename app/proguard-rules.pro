@@ -1,0 +1,3 @@
+-keep class dev.rawdev.gaffer.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
